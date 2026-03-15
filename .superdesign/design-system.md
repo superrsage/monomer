@@ -1,4 +1,4 @@
-# BioPlastic AI Design System
+# Monomer Design System
 
 ## Brand Identity
 - Mission-driven, environmental tone

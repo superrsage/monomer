@@ -37,7 +37,7 @@ const steps = [
   {
     num: '04',
     title: 'SYNTHESIS',
-    desc: 'Rapid lab-prototyping of the winning candidates.',
+    desc: 'Top candidates handed off to lab partners for real-world testing.',
     icon: (
       <svg width="120" height="120" viewBox="0 0 100 100">
         <path d="M30,50 Q50,20 70,50 T30,50" fill="none" stroke="currentColor" strokeWidth="2" />
@@ -59,9 +59,9 @@ export default function Engine() {
           </h2>
           <div className="mt-8 lg:mt-0 lg:max-w-md">
             <p className="text-lg font-medium opacity-70">
-              Traditional material science is a decade-long guessing game. Our transformer-based
-              models simulate decillions of molecular combinations in weeks to find the
-              &lsquo;Goldilocks&rsquo; polymer.
+              Traditional material science is a decade-long guessing game. The plan: use
+              transformer-based models to simulate vast molecular search spaces in weeks,
+              not years — and find the &lsquo;Goldilocks&rsquo; polymer computationally first.
             </p>
           </div>
         </div>

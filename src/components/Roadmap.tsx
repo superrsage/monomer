@@ -1,7 +1,8 @@
 const phases = [
-  { phase: 'Phase 01', title: 'PET REPLACEMENT FOUND', status: '[ COMPLETED_2025 ]', highlight: false },
-  { phase: 'Phase 02', title: 'INDUSTRIAL PILOT SCALE', status: '[ IN_PROGRESS ]', highlight: true },
-  { phase: 'Phase 03', title: 'TOP 10 POLYMERS REPLACED', status: '[ TARGET_2027 ]', highlight: false },
+  { phase: 'Phase 01', title: 'RESEARCH & HYPOTHESIS', status: '[ NOW ]', highlight: true },
+  { phase: 'Phase 02', title: 'AI MODEL + CANDIDATE SEARCH', status: '[ NEXT ]', highlight: false },
+  { phase: 'Phase 03', title: 'LAB VALIDATION PARTNERSHIPS', status: '[ TARGET_2026 ]', highlight: false },
+  { phase: 'Phase 04', title: 'FIRST POLYMER CANDIDATE', status: '[ TARGET_2027 ]', highlight: false },
 ];
 
 export default function Roadmap() {

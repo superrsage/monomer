@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full z-50 bg-white border-b border-gray-200">
       <div className="flex justify-between items-center px-6 md:px-12 h-20">
         <a href="#" className="text-2xl font-bold kerning-tight uppercase">
-          BIOPLASTIC<span className="text-[#ec4899]">_AI</span>
+          MONOMER<span className="text-[#ec4899]"></span>
         </a>
         <div className="hidden md:flex items-center gap-12 text-sm font-bold uppercase tracking-widest">
           <a href="#crisis" className="hover:text-[#ec4899] transition-colors">

@@ -8,7 +8,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'BioPlastic AI | The End of Permanent Waste',
+  title: 'Monomer | The End of Permanent Waste',
   description:
     'We use artificial intelligence to discover and engineer biodegradable plastics that perform like conventional polymers — and vanish when their job is done.',
 };
